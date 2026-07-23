@@ -53,6 +53,16 @@ hfa         -> Importazione e gestione dei dati sanitari Health For All (ISTAT).
 - Pandas
 
 
-########################REPOSITORY DEL COMPONENTE##############################
+########################REPOSITORY DEI COMPONENTI##############################
 
-https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-backend-Greco-Mastrandrea
+https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-tests-Greco-Mastrandrea.git
+
+https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-raspberry-Greco-Mastrandrea.git
+
+https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-mobile-app-Greco-Mastrandrea.git
+
+https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-dashboard-Greco-Mastrandrea.git
+
+https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-cloud-Greco-Mastrandrea.git
+
+https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-edge-Greco-Mastrandrea.git
