@@ -66,3 +66,5 @@ https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-d
 https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-cloud-Greco-Mastrandrea.git
 
 https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-edge-Greco-Mastrandrea.git
+
+https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-backend-Greco-Mastrandrea
